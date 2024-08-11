@@ -1,8 +1,8 @@
-﻿using Exodus.Models;
+﻿using Enterprise01.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Exodus.Controllers
+namespace Enterprise01.Controllers
 {
     public class HomeController : Controller
     {

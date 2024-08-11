@@ -1,4 +1,4 @@
-namespace Exodus.Models
+namespace Enterprise01.Models
 {
     public class ErrorViewModel
     {
