@@ -1,4 +1,4 @@
-namespace Enterprise01.Models
+namespace AppointmentScheduler.Models
 {
     public class ErrorViewModel
     {

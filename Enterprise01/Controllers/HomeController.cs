@@ -1,11 +1,11 @@
-﻿using Enterprise01.Models;
+﻿using AppointmentScheduler.Models;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Security.Claims;
 
-namespace Enterprise01.Controllers
+namespace AppointmentScheduler.Controllers
 {
     public class HomeController : Controller
     {
